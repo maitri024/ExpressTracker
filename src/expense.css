@@ -1,0 +1,35 @@
+table td{
+    border: 1px solid black;
+    font-size: 25px;
+    background-color: rgb(225, 216, 234);
+}
+
+.container{
+    background-color: aliceblue;
+    height: 98%;
+}
+
+h2,h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+form{
+    font-size: 25px;
+}
+
+input{
+   font-size: 25px;
+   margin-top: 22px;
+}
+
+button{
+    font-size: 20px;
+    background-color: darkgray;
+    margin: 22px 0px 0px 50px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: lightgray;
+}
